@@ -1,0 +1,24 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: finance_login
+credentials:
+  usernames:
+    testuser:
+      email: testuser@example.com
+      name: Test User
+      password: $2b$12$KIXk1WwZyVK4B1a1pCS1aOmYKzn1GbQ8xnh5KgR7EMoIzoBJbsuqK
+preauthorized:
+  emails: []
+
+credentials:
+  usernames:
+    majd:
+      email: majd@ai.com
+      name: Majd
+      password: "$2b$12$thAaubeFSUJTl08lkeQX/eeH36hiImUPe6mxPXVWQYJI0UJ7JMyku"  # password is majd123
+
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: finance_login

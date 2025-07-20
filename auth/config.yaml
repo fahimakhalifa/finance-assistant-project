@@ -1,0 +1,31 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: finance_login
+credentials:
+  usernames:
+    Fahima:
+      email: ssssqqw@email.com
+      name: Fahima Khalifa
+      password: $2b$12$t/ABWxC3xT27C83mrurJsOBzK1jMnBYtlW0k1iecKwFoQVW67HiCK
+    dana:
+      name: dana z
+      password: $2b$12$TZZWj95RDIMfdjd3SjZkc.ROVwW.ykesOKivxTj59eyY41gc5wn.K
+    majd:
+      email: majd@ai.com
+      name: Majd
+      password: $2b$12$thAaubeFSUJTl08lkeQX/eeH36hiImUPe6mxPXVWQYJI0UJ7JMyku
+    rama:
+      name: rama hh
+      password: $2b$12$eHrQ2K2uGYksr7S4l0SCmutLcvbcs5igeVx91RM2ZGX1xXXgtGfsq
+    ramaa:
+      name: rama h
+      password: $2b$12$KS0gPdhWv2/fZUUE6Dm5LueQmUAeDiE.NeD2Hz60AXT9H5IeUywZG
+    safa:
+      name: safa a
+      password: $2b$12$AJXDlymr2Rxb9ZlRY2RJleTeHmY7B06e1kAxAOicpbjNlIyMthFh2
+    sara:
+      name: sara h
+      password: $2b$12$hlHmKN11QQFwMXpi77l43eEop8jjXaYByYFthxAFtamPmBVJlU3Yq
+preauthorized:
+  emails: []
