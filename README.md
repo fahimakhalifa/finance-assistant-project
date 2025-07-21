@@ -17,8 +17,7 @@ It helps users **forecast spending**, **track budgets**, **analyze goals**, and 
 ---
 
 ## Screenshots
-
-> Add these to show the app in action:
+>  See the app in action:
 - `images`
 
 ```
